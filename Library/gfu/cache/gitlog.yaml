@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-06-23T19:14:35.710+08:00
+  initializedAtString: 2019-06-23T18:52:45.845+08:00
+  log:
+  - commitID: f20e140733388ce887f42c822182448cf047dcb7
+    mergeA: 
+    mergeB: 
+    authorName: tom-glb
+    authorEmail: goodMorning_glb@atguigu.com
+    commitEmail: goodMorning_glb@atguigu.com
+    commitName: tom-glb
+    summary: "unity \u63D0\u4EA4"
+    description: "unity \u7B2C\u4E00\u6B21\u63D0\u4EA4GitHub\u4ED3\u5E93"
+    timeString: 2019-06-23T19:05:21.000+08:00
+    commitTimeString: 2019-06-23T19:05:21.000+08:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: H:\Work\UnitySocket\Chapter3\socketBook3\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: d2810c9b58d9b3813ab122278ec7571b5fe30115
+    mergeA: 
+    mergeB: 
+    authorName: tom-glb
+    authorEmail: goodMorning_glb@atguigu.com
+    commitEmail: goodMorning_glb@atguigu.com
+    commitName: tom-glb
+    summary: "\u6DFB\u52A0 .gitignore \u548C .gitattributes\u3002"
+    description: 
+    timeString: 2019-06-23T18:33:23.000+08:00
+    commitTimeString: 2019-06-23T18:33:23.000+08:00
+    changes:
+    - path: .gitattributes
+      fullPath: H:\Work\UnitySocket\Chapter3\socketBook3\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: H:\Work\UnitySocket\Chapter3\socketBook3\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
